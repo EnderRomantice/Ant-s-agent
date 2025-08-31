@@ -7,7 +7,7 @@ def main():
 
     # 打印支持网站
     supported_sites = "\n".join(f"  - {site}" for site in WEBSITE_MAP.keys())
-    print(f"📘 这是一个爬虫 agent，支持的网站:\n{supported_sites}")
+    print(f"📘 Ant's agent正在运行\n已配置的网站:\n{supported_sites}")
     print("输入 'exit' 退出对话。\n")
 
     while True:

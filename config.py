@@ -4,7 +4,7 @@ WEBSITE_MAP = {
     "豆瓣": "https://movie.douban.com/top250",
 }
 
-API_KEY = "sk-4d6d53da8cd5438e9a11c5694327cee1"
+API_KEY = "your_api_key"
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 MODEL_NAME = "qwen-plus"
 

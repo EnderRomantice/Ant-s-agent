@@ -14,11 +14,11 @@ pip install -r requirements.txt
 
 接下来打开项目根目录，找到config.py
 
-![1](https://github.com/EnderRomantice/Ant-s-agent/assets/1.png)
+![1](https://github.com/EnderRomantice/Ant-s-agent/tree/master/assets/1.png)
 
 修改常量API_KEY，替换为你自己的
 
-![2](https://github.com/EnderRomantice/Ant-s-agent/assets/2.png)
+![2](https://github.com/EnderRomantice/Ant-s-agent/tree/master/assets/2.png)
 
 然后就可以启动项目了
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![3](https://github.com/EnderRomantice/Ant-s-agent/assets/3.png)
+![3](https://github.com/EnderRomantice/Ant-s-agent/tree/master/assets/3.png)
 
 ### 一点想法  😎
 

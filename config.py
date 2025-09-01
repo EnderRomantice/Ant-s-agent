@@ -3,7 +3,7 @@ import json
 with open('website_map.json', 'r', encoding='utf-8') as f:
     WEBSITE_MAP = json.load(f)
 
-API_KEY = "sk-4d6d53da8cd5438e9a11c5694327cee1"
+API_KEY = "your_api_key"
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 MODEL_NAME = "qwen-plus"
 
